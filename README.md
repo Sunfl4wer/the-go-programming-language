@@ -1,2 +1,2 @@
-# go
-A repository for go projects
+# The Go Programming Language
+A repository for excercises in the book _The Go Programming Language_
